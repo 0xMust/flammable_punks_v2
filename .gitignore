@@ -22,10 +22,10 @@
 /minting_app/yarn-error.log*
 
 #media
-art_generator/imgs/
-art_generator/metadata/
+**/imgs
+**/metadata
 
-contracts/cache/
-contracts/out/
+/contracts/cache/
+/contracts/out/
 
 .DS_Store
