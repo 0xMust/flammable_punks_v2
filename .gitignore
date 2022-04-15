@@ -27,3 +27,5 @@ art_generator/metadata/
 
 contracts/cache/
 contracts/out/
+
+.DS_Store
