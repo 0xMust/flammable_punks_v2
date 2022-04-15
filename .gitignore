@@ -22,8 +22,8 @@
 /minting_app/yarn-error.log*
 
 #media
-/art_generator/imgs
-/art_generator/metadata
+art_generator/imgs
+art_generator/metadata
 
-/contracts/cache
-Contracts/out
+contracts/cache
+contracts/out
